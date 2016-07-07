@@ -1,5 +1,5 @@
 #!/bin/sh
-#define root folder for testauto
+#define root folder for testauto 111
 testautoRootPath=/nt/sdcard/testauto
 junitReportPath=$testautoRootPath/junit
 
