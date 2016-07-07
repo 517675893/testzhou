@@ -1,0 +1,9 @@
+# view AndroidManifest.xml #generated:10
+-keep class android.test.InstrumentationTestRunner { <init>(...); }
+
+# view AndroidManifest.xml #generated:14
+-keep class com.example.todolist.test.runners.CommonRunner { <init>(...); }
+
+# view AndroidManifest.xml #generated:26
+-keep class com.example.todolist.test.runners.Runner1 { <init>(...); }
+
